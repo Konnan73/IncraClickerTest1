@@ -1,2 +1,2 @@
 # IncraClickerTest1
-Based off of AoO
+I'm basing this one off of Age of Orion
